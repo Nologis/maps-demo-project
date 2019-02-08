@@ -2,9 +2,9 @@
   "name": "maps-demo-project",
   "version": "1.0.0",
   "dependencies": {
-    "@nologis/maps": "^1.0.9",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
+    "@nologis/maps": "^1.2.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
     "react-scripts": "^2.1.3"
   },
   "license": "ISC",
